@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fidelamg.github.io/-dj-antony-radio-amor/sitemap.xml
